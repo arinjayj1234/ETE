@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+  text-align: center;
+}
+span
+{
+  font-size: 30px;
+}
+#tsAbm , #ouyLkgcr
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.header{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 14px;
+  color: darkgoldenrod;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
